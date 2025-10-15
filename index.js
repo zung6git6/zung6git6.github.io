@@ -13,7 +13,7 @@ $(document).ready(function () {
         }));
 
       const manualCollabRepos = [
-        { name: "Model T9 to Sinogram", url: "https://github.com/PerrineQhn/Model_T9_to_Sinogram", description: "Chinese T9 predictive text system inspired by Sogou keyboard. Converts Chinese corpus into Pinyin and T9 sequences, and predicts Chinese characters from keypresses using left-side context." },
+        { name: "Model T9 to Sinogram", url: "https://github.com/PerrineQhn/Model_T9_to_Sinogram", description: "Chinese T9 Predictive Text System inspired by the Sogou Keyboard. Trains RNN and LSTM neural networks to build predictive models that convert a Chinese corpus into Pinyin and T9 sequences, then predict Chinese characters from keypresses using left-context information." },
         { name: "AI Chatbot", url: "https://github.com/PerrineQhn/ChatBot_FastApi", description: "AI Chatbot web application built with FastAPI, featuring an interactive HTML/CSS/JS interface, contextual conversation handling, Solr-based conversation indexing, and automatic service startup." },
         { name: "MTdV Translator", url: "https://github.com/PerrineQhn/MTdVTranslator", description: "Python implementations of a Turing machine (MTdV) exercises, demonstrating different coding constraints and techniques for recursion, mutable lists, and function design." },
         { name: "MLP Profiler", url: "https://github.com/PerrineQhn/XOR_Project", description: "Enhanced multilayer perceptron implementation with parameter and dataset loading from files, enabling flexible and reproducible configurations. Includes profiling scripts to measure empirical complexity (time and memory) for single neurons, hidden layers, and the entire network." },
